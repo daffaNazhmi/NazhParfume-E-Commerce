@@ -6,7 +6,7 @@ Folder ini berisikan tentang website penjualan parfum menggunakan laravel 11. Di
 
 - Buka git bash / terminal lalu clone repo ini : git clone https://github.com/daffaNazhmi/NazhParfume-E-Commerce.git
 - impor database db_nazhparfumelaravel.sql (ada di github ini)
-- Jalankan migration : php artisan migrate
 - Install folder vendor : composer install
 - Tambahkan di file .env : DB_DATABASE=db_nazhparfumelaravel
+- Jalankan migration : php artisan migrate
 - Jalankan : php artisan serve
