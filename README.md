@@ -8,5 +8,5 @@ Folder ini berisikan tentang website penjualan parfum menggunakan laravel 11. Di
 - impor database db_nazhparfumelaravel.sql (ada di github ini)
 - Jalankan migration : php artisan migrate
 - Install folder vendor : composer install
-- Tambahkan di file .env : db_nazhparfumelaravel
+- Tambahkan di file .env : DB_DATABASE=db_nazhparfumelaravel
 - Jalankan : php artisan serve
